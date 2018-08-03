@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Portfolio build using bootstrap
+Recreation of the simple portfolio while using Bootstrap.
